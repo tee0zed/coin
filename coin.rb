@@ -1,6 +1,6 @@
 # encoding: utf-8
 
-toss_1 = rand(10)
+toss_1 = rand(5)
 
 toss_2 = rand(2)
 
